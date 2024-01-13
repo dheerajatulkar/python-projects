@@ -1,3 +1,5 @@
+#list and dictionary practice program
+
 num = int(input("Enter a number of student: "))
 student_data = []
 for i in range(num):
